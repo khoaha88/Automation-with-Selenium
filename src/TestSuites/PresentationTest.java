@@ -39,7 +39,7 @@ public class PresentationTest {
 			Assert.assertTrue(objPresentation.getMainPageTitle().equals(ElementDeclaration.headerMainText));
 		}
 		catch(Exception e){
-			
+			e.getMessage();
 		}
 		
 		
