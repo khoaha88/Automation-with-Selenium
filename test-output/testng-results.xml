@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26044" started-at="2016-09-14T02:00:49Z" finished-at="2016-09-14T02:01:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26044" started-at="2016-09-14T02:00:49Z" finished-at="2016-09-14T02:01:15Z">
+      <class name="TestSuites.PresentationTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.PresentationTest@396a51ab]" name="init" is-config="true" duration-ms="8360" started-at="2016-09-14T09:00:49Z" finished-at="2016-09-14T09:00:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="assertPresentationListPageTitle()[pri:0, instance:TestSuites.PresentationTest@396a51ab]" name="assertPresentationListPageTitle" duration-ms="13780" started-at="2016-09-14T09:00:57Z" finished-at="2016-09-14T09:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertPresentationListPageTitle -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestSuites.PresentationTest@396a51ab]" name="close" is-config="true" duration-ms="3882" started-at="2016-09-14T09:01:11Z" finished-at="2016-09-14T09:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestSuites.PresentationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
