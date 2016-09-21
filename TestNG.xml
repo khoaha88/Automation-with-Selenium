@@ -3,8 +3,10 @@
 <suite name="Main Test Suite" verbose="2">
     <test name="TestNG Test Group">
         <classes>
-        <class name="LoginTest"/>
-        <class name="PresentationTest"/>
+        <class name="TestSuites.LoginPF"/>
+		<class name="TestSuites.LoginTest"/>
+        <class name="TestSuites.PresentationPF"/>
+		<class name="TestSuites.PresentationTest"/>
         </classes>
     </test>
 </suite>
